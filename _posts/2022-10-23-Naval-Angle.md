@@ -87,6 +87,7 @@ image: "https://pica.zhimg.com/80/v2-7b5e205316d222aa48a65d621722c357_1440w.webp
     - 你们的反应、愿望、家庭、幸福、财富等。
     - 如果你不愿意全部打包交换，那嫉妒他们还有什么意义
     - 当我想清楚这件事以后，嫉妒的情绪就消失了。因为我不想成为任何人。我很开心现在的自己
+
 ## 做决策
 - 阅读学习牛人的Menta Models，查理芒格、富兰克林、达尔文等
 - 一次成功靠运气，多次成功靠构建系统 - 决策成功率的体现
@@ -101,6 +102,7 @@ image: "https://pica.zhimg.com/80/v2-7b5e205316d222aa48a65d621722c357_1440w.webp
 - 文章-[贝叶斯和批判性思维](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html)
     - 先验、后验、似然
     - 思辨-校准你的信念
+    
 ## ✍️ Quote of the Week
 > 改变他人的最好方式，就是成为他人的榜样。 -- 纳瓦尔
 
