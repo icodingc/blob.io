@@ -2,10 +2,10 @@
 layout: post
 title: 卓有成效的管理者
 date: 2021-02-28
-categories: blog
-tags: [工作,管理]
-description: 读书笔记。
+categories: [blog,管理,工作]
+image: assets/images/6.jpg
 ---
+
 有效的管理者，在个性、知识、能力、习惯等各方面差别很大，但是他们有一个共同点：**做好该做事情的能力**！
 
 ![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/Effective_Executive.png)

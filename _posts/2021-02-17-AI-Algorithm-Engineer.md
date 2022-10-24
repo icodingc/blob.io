@@ -2,9 +2,8 @@
 layout: post
 title: AI算法工程师的自我修养
 date: 2021-02-17
-categories: blog
-tags: [工作,算法]
-description: 看了一些知乎的资料。
+categories: [blog,算法]
+image: assets/images/5.jpg
 ---
 AI算法工程师可以分解为三个部分：AI算法、工程、师（职场人）。所以一位合格的AI算法工程师，首先是一位**合格的职场人**，其次是一位合格的**工程师**，最后才到AI算法工程师。
 

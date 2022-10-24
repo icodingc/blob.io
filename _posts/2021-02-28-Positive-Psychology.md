@@ -3,7 +3,7 @@ layout: post
 title: 积极心理学
 date: 2021-02-28
 categories: [blog,心理]
-image: assets/images/16.jpg
+image: assets/images/1.jpg
 ---
 
 ![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/positive01.png)
