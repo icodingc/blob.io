@@ -5,14 +5,9 @@ author: jason
 date: 2021-02-17
 categories: [Articles]
 tags: [算法,职业,工作心得]
-image: assets/images/5.jpg
+image: assets/images/16.jpg
 ---
-
-AI算法工程师可以分解为三个部分：AI算法、工程、师（职场人）
-
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/Effective_Executive.png)
-
-一位合格的AI算法工程师，首先是一位**合格的职场人**，其次是一位合格的**工程师**，最后才到AI算法工程师。
+AI算法工程师可以分解为三个部分：AI算法、工程、师（职场人），一位合格的AI算法工程师，首先是一位**合格的职场人**，其次是一位合格的**工程师**，最后才到AI算法工程师。
 
 ## 合格的职场人
 从学生思维到工作思维的转变，这些软实力是职场顺利工作的根基。
