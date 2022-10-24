@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 积极心理学
-author: Jason
+author: jason
 date: 2021-02-28
-categories: [blog,心理]
+categories: [Articles]
+tags: [积极,心理]
 image: assets/images/1.jpg
 ---
 
