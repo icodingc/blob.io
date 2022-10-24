@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 认知神经科学
+author: Jason
 date: 2021-02-21
 categories: [blog,Articles]
 tags: [心理,认知]

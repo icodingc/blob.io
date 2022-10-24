@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AI算法工程师的自我修养
+author: Jason
 date: 2021-02-17
 categories: [blog,算法]
 image: assets/images/5.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 卓有成效的管理者
+author: Jason
 date: 2021-02-28
 categories: [blog,管理,工作]
 image: assets/images/6.jpg
