@@ -1,63 +1,341 @@
-# Site settings
-title: 无涯 # 你的博客名字，可以定义修订
-header-img: "img/facebook.jpg"
-tagline: "cn"
-description: "无涯"  # 一句话描述你的博客
-baseurl: ""
-url: "https://icodingc.github.io/"  # 此处填写你的博客地址
+# Site wide configuration
+source: .tmp/src
+destination: .tmp/dist
 
-# About/contact
-owner:
-  name: "icodingc" # 填写作者信息：名字
-  email: xuesen.me@gmail.com # 填写作者信息：邮箱
-  bio: "并没有什么描述" # 填写作者信息：博客描述
+title: "Deep Walk"
+description: "Personal website of designer Michael Rose (@icodingc)"
+logo: &logo "/assets/images/android-chrome-384x384.png"
+locale: "en_US"
+words_per_minute: 200
 
-# Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+repository: "mmistakes/made-mistakes-jekyll"
+url: "https://icodingc.github.io/"
 
-douban_username:  # 你的豆瓣id
-twitter_username:
-github_username:
-facebook_username:
-weibo_username:
-zhihu_username:
+social:
+  name: "icodingc"
+  links:
+    - "https://twitter.com/zxuesen"
+    - "https://www.facebook.com/michaelrose"
+    - "https://www.instagram.com/mmistakes/"
+    - "https://github.com/icodingc"
+    - "https://micro.blog/mmistakes"
 
-# Build settings
-# use Github Flavored Markdown !important
-# document: http://jekyllrb.com/docs/configuration/#kramdown
+google_site_verification: "geapSKtvpBNDSfXVmF09E9CnaHGglbO61r4XgLZtEmo"
+bing_site_verification: "D81F4C18A6CB3018F64D7C827D953DFD"
+alexa_site_verification: "Y5DYjZ4VWlrQzBP5kcQJeOKLNas"
+yandex_site_verification: "55a5419baf76a498"
+
+google_ad-client: "ca-pub-7328585512091257"
+google_ad-slot: "3049671934"
+google_analytics: "UA-2011187-1"
+
+feed:
+  path: "https://icodingc.github.io/atom.xml"
+
+favicon_version: "9BPnoQEY43"
+
+pingback_url: "https://webmention.io/mademistakes.com/xmlrpc"
+webmention_url: "https://webmention.io/mademistakes.com/webmention"
+micropub_url: "https://mm-micropub-to-github.herokuapp.com/micropub/main"
+token_endpoint_url: "https://tokens.indieauth.com/token"
+authorization_endpoint_url: "https://indieauth.com/auth"
+microblog_url: "https://micro.blog/mmistakes"
+
+# Site owner
+author:
+  name: "Deep Walk"
+  uri: &uri "https://icodingc.github.io/about/"
+  url: *uri
+  bio: "Just another boring, tattooed, time traveling designer."
+  picture: "/assets/images/michael-rose-glitched.jpg"
+  twitter: "https://twitter.com/zxuesen"
+  facebook: "https://www.facebook.com/michaelrose"
+  instagram: "https://www.instagram.com/mmistakes/"
+  github: "https://github.com/icodingc"
+
+twitter:
+  username: "zxuesen"
+
+# Staticman comments (full configuration in staticman.yml)
+staticman:
+  branch: "master"
+
+# reCAPTCHA keys
+reCaptcha:
+  siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
+  secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+
+# Jekyll configuration
+permalink: /:categories/:title/
+lsi: true
+future: false
+show_drafts: false
 markdown: kramdown
+kramdown:
+  toc_levels: 1..3
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  entity_output: as_char
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 highlighter: rouge
-permalink: pretty
-paginate: 8
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+strict_front_matter: true
+keep_files:
+  - .git
+include:
+  - _pages
+  - _redirects
+exclude:
+  - .jekyll-cache
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles/
+  - Gruntfile.js
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-paginate-v2
+  - jekyll-typogrify
+  - jekyll-figure
+  - jekyll-algolia
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
+  - jekyll-include-cache
+  - jekyll-toc
 
-# Defaults for posts
+# Collections
+collections:
+  faqs:
+    output: true
+    permalink: /:collection/:path/
+    title: FAQs
+  work:
+    output: true
+    permalink: /:collection/:path/
+    title: Works
+  components:
+    output: false
+  colors:
+    output: false
+
+# Front Matter Defaults
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
+  # Blog Articles
+  - scope:
+      path: _posts/articles
+      type: posts
     values:
-      layout: "post"
-      # author: "你的名字" # 你的名字
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      layout: post
+      byline: false
+      read_time: true
+      support: true
+      breadcrumbs:
+        - label: "Blog articles"
+          url: /articles/
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
+  # Mastering Paper
+  - scope:
+      path: _posts/mastering-paper
+      type: posts
+    values:
+      layout: post
+      byline: false
+      read_time: true
+      comments: true
+      support: true
+      breadcrumbs:
+        - label: "Mastering Paper for iOS"
+          url: /mastering-paper/
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
+  # Notes
+  - scope:
+      path: _posts/notes
+      type: posts
+    values:
+      layout: post
+      byline: false
+      read_time: true
+      breadcrumbs:
+        - label: "Notes"
+          url: /notes/
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
+  # PaperFaces
+  - scope:
+      path: _posts/paperfaces
+      type: posts
+    values:
+      layout: post
+      byline: false
+      breadcrumbs:
+        - label: "Works"
+          url: /work/
+        - label: "PaperFaces portraits"
+          url: /paperfaces/
+      work: "Illustration"
+      seo:
+        type: "CreativeWork"
+  # Procreate Paintings
+  - scope:
+      path: _posts/procreate
+      type: posts
+    values:
+      layout: post
+      byline: false
+      breadcrumbs:
+        - label: "Works"
+          url: /work/
+        - label: "Procreate paintings"
+          url: /procreate-paintings/
+      work: "Illustration"
+      seo:
+        type: "CreativeWork"
+  # Tiny Paintings
+  - scope:
+      path: _posts/tiny-paintings
+      type: posts
+    values:
+      layout: post
+      byline: false
+      breadcrumbs:
+        - label: "Works"
+          url: /work/
+        - label: "Tiny paintings"
+          url: /tiny-paintings/
+      work: "Illustration"
+      seo:
+        type: "CreativeWork"
+  # Work (posts and collection)
+  - scope:
+      path: _posts/work
+      type: posts
+    values:
+      layout: post
+      breadcrumbs:
+        - label: "Works"
+          url: /work/
+      seo:
+        type: "CreativeWork"
+  - scope:
+      path: _work
+      type: work
+    values:
+      layout: work
+      category: work
+      breadcrumbs:
+        - label: "Works"
+          url: /work/
+      seo:
+        type: "CreativeWork"
+  # FAQs
+  - scope:
+      path: _faqs
+      type: faqs
+    values:
+      layout: page
+      read_time: true
+      breadcrumbs:
+        - label: "Frequently asked questions"
+          url: /faqs/
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
+  # Pages
+  - scope:
+      path: _pages
+      type: pages
+    values:
+      layout: page
+      image:
+        facebook: *logo
+        twitter: *logo
+      twitter:
+        card: summary
 
-# Comments
-comments :
-  provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
-  duoshuo :
-    short_name :  # 填写你的 disqus id
-  disqus :
-      short_name :  # 填写你的 disqus id
+# Plugin: Pagination (jekyll-paginate-v2)
+pagination:
+  enabled: true
+  debug: false
+  per_page: 15
+  permalink: "/page/:num/"
+  title: ":title"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:  # 填写你  google_analytics id
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Plugin: Auto Pages (jekyll-paginate-v2)
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    enabled: true
+    slugify:
+      mode: raw
+      cased: true
+    layouts:
+      - "autopage_tags.html"
+    title: ":tag" # :tag is replaced by the tag name
+    permalink: "/tag/:tag"
 
-# Links to include in footer navigation
+# Plugin: Figure (jekyll-figure)
+jekyll-figure:
+  paragraphs: false
+
+# Plugin: Table of Contents (jekyll-toc)
+toc:
+  min_level: 2
+  max_level: 2
+  list_class: "toc__menu"
+  item_class: "toc__entry"
+  item_prefix: "toc__"
+
+# Plugin: Jekyll Algolia
+algolia:
+  application_id: KT124ONH1Z
+  index_name: mademistakes
+  search_only_api_key: 5a6e106e8083321a8ccca41b11aca95c
+  nodes_to_index: "p,blockquote"
+  files_to_exclude:
+    - index.html
+    - index.md
+    - _pages/404.md
+    - _pages/articles.md
+    - _pages/faqs.md
+    - _pages/mastering-paper.md
+    - _pages/portraits.md
+    - _pages/sitemap.md
+    - _pages/tag.md
+    - _pages/notes.md
+    - _pages/work.md
