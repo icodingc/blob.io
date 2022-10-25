@@ -47,6 +47,7 @@ image: assets/images/10.jpg
 
 - 文章 - [冥想难道只能将注意力集中到呼吸上？](https://www.zhihu.com/question/369171415/answer/1974522060) 
 	- 冥想为什么要把注意力集中到呼吸？以及概念性自我和观察性自我的区别。
+	
 ## **✍️ Quote of the Week**
 > The person who is consistent outperforms the person who is intermittent every time。
 

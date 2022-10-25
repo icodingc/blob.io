@@ -53,6 +53,7 @@ image: assets/images/4.jpg
 - 文章 - [什么是禅？](https://www.zhihu.com/question/20845278/answer/1723543912) 
 	- 临在是一种感知，而不是概念
 	- 吃饭是吃饭，睡觉是睡觉，砍柴是砍柴
+	
 ## **✍️ Quote of the Week**
 > The best way, perhaps the only way, to change others is to **become an example**. -- Naval
 

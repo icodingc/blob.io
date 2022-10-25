@@ -51,7 +51,7 @@ image: assets/images/13.jpg
 **总有一天，你会发现，所有的知识都会 connect the dots。**
 
 ## ♥️ My Favourite Things
-- 播客 - [知行读书会 02 |《随机漫步的傻瓜》](https://www.xiaoyuzhoufm.com/episode/60f8185dfc5d26f06578cedc)
+- 播客 - [知行读书会-随机漫步的傻瓜](https://www.xiaoyuzhoufm.com/episode/60f8185dfc5d26f06578cedc)
     - 随机性和数学期望
     - 短期是投票机，长期是称重机
 - 文章 - [Learn In Public](https://www.swyx.io/learn-in-public/)
