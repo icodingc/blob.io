@@ -1,27 +1,27 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: 也许才刚刚开始
 permalink: /about
 comments: true
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
+<h4>关于我</h4>
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>现居北京。目前的工作是算法工程师。</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<h4>输出就是表达</h4>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<!-- <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p> -->
 
 </div>
 
-<div class="col-md-4">
+<!-- <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
@@ -31,5 +31,5 @@ comments: true
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
 </div>
-</div>
+</div> -->
 </div>
