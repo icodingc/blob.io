@@ -10,9 +10,7 @@ comments: true
 
 <h4>回到八年前</h4>
 
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/assets/images/about_comment.jpg)
-
-<a href="https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/assets/images/about_comment.jpg"></a>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/about_comment.jpg" alt="disqus" /></p>
 
 <p>前几天折腾个人网站测试disqus平台评论功能的时候，发现了上图。唤醒了一些记忆，8年前我大三，也学着构建自己的网站，输出文章。</p>
 <p>现在记不得当时为什么心热想去自己折腾网站，也记不得为什么写了“不如坚持下去”的类鸡汤的留言，当时的一切都留在了记忆的深处。也许在另一个平行世界的我，正享受着8年坚持带来的成就感，也许他坚持了没多久就放弃了，一切都无人知晓。</p>
