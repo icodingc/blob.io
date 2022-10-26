@@ -10,7 +10,8 @@ image: assets/images/6.jpg
 
 有效的管理者，在个性、知识、能力、习惯等各方面差别很大，但是他们有一个共同点：**做好该做事情的能力**！
 
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/Effective_Executive.png)
+
+![Effective_Executive]({{ site.baseurl }}/assets/images/Effective_Executive.png)
 
 ## 掌握自己的时间
 - 什么事根本**不必做**

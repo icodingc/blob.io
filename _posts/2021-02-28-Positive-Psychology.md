@@ -10,7 +10,7 @@ image: assets/images/1.jpg
 
 哈佛幸福课
 
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/positive01.png)
+![positive01]({{ site.baseurl }}/assets/images/positive01.png)
 
 **重复看视频**
 [toc]

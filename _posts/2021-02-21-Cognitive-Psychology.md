@@ -10,7 +10,9 @@ image: assets/images/16.jpg
 这里主要整理之前听混沌大学关于认知神经科学的课程，后边最好会根据自己的思考、认知重新整理。
 
 ## 一、 快思满想
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/cognitive_img1.png)
+
+![cognitive_img1]({{ site.baseurl }}/assets/images/cognitive_img1.png)
+
 系统一的运行是**无意识且快速的**，不怎么非脑力，没有感觉，完全处于自主控制状态。
 系统二是理性的、**有意识的**，以逻辑为基础，在意识中处理信息，它是缓慢的，工于计算。
 
@@ -33,7 +35,7 @@ image: assets/images/16.jpg
 **你的知识背景决定你看到的东西**。
 就像《世界观》说的那样：每个人的世界观都是由不同的观点板块构成的一个统一整体，所以有时候很难去说服一个人，因为你在尝试挑战他的整个世界观。
 
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/cognitive_img2.png)
+![cognitive_img2]({{ site.baseurl }}/assets/images/cognitive_img2.png)
 
 我们永远看不见世界的真貌，我们只看见我们想看的世界。
 
@@ -50,12 +52,15 @@ image: assets/images/16.jpg
 
 人不是理性的动物，意志对情绪的控制弱，**情绪对意志的控制强**。跟感性有关的神经递质有多巴胺、血清素、正肾上腺素以及催产素。
 
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/cognitive_img3.png)
+![cognitive_img3]({{ site.baseurl }}/assets/images/cognitive_img3.png)
+
 自身产生的多巴胺是有益的，借助药物会产生副作用。**运动会产生多巴胺**，所以劳逸结合是有科学依据的。
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/cognitive_img5.png)
+
+![cognitive_img5]({{ site.baseurl }}/assets/images/cognitive_img5.png)
 
 #### 0011 大脑的可塑性
-![](https://raw.githubusercontent.com/icodingc/icodingc.github.io/main/img/cognitive_img4.png)
+![cognitive_img4]({{ site.baseurl }}/assets/images/cognitive_img4.png)
+
 每个人都是过去经验的总和，你今天的行为，会影响你的大脑，影响你明天的决策。
 
 **教育会改变神经回路的链接**，改变大脑的结构。
