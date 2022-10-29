@@ -30,7 +30,6 @@ image: assets/images/bernoulli0.jpeg
 <!-- https://shiny.rit.albany.edu/stat/binomial/  -->
 ![bernoulli1]({{ site.baseurl }}/assets/images/bernoulli1.png)
 
-<center>
 
 |条件 | 事件发生的概率 |
 |--|---|
@@ -39,7 +38,6 @@ image: assets/images/bernoulli0.jpeg
 |成功5次失败五次|0.0055050|
 |**至少成功8次**|**0.67**|
 
-</center>
 
 虽然单次实验结果比较随机，但是随着试验次数变多，事件成功的次数还是和概率正相关（数学期望）。长期看，一切都会回归到平均水平（成功的概率）。
 
