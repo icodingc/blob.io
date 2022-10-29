@@ -19,7 +19,7 @@ image: assets/images/bernoulli0.jpeg
 运气是将随机性应用于个体。例如，掷骰子点数是随机的，但是总会有人掷到6点；彩票是随机的，但是总会有幸运儿。
 创业者的那么多，最后脱颖而出的只有可能不到千分之一。那他们是靠运气还是靠能力呢。
 
-随机性统治者这个世界，运气起着巨大的作用，我们是不是只能等待运气的眷顾。
+随机性统治了这个世界，运气起着巨大的作用，我们是不是只能等待运气的眷顾。
 <!-- 乔布斯的成功是不是运气？ -->
 
 ### 伯努利实验
@@ -29,6 +29,7 @@ image: assets/images/bernoulli0.jpeg
 
 <!-- https://shiny.rit.albany.edu/stat/binomial/  -->
 ![bernoulli1]({{ site.baseurl }}/assets/images/bernoulli1.png)
+
 <center>
 
 |条件 | 事件发生的概率 |
@@ -36,7 +37,7 @@ image: assets/images/bernoulli0.jpeg
 |成功10次|0.1073742|
 |成功0次|0.0000001|
 |成功5次失败五次|0.0055050|
-|至少成功8次|0.67|
+|**至少成功8次**|**0.67**|
 
 </center>
 
