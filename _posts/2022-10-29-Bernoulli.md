@@ -6,6 +6,7 @@ date: 2022-10-29
 categories: [Articles]
 tags: [运气,随机性]
 image: assets/images/bernoulli0.jpeg
+toc: true
 ---
 靠能力还是靠运气
 
@@ -31,11 +32,13 @@ image: assets/images/bernoulli0.jpeg
 ![bernoulli1]({{ site.baseurl }}/assets/images/bernoulli1.png)
 
 
+|---
 |条件 | 事件发生的概率 |
 |--|---|
 |成功10次|0.1073742|
 |成功0次|0.0000001|
 |成功5次失败五次|0.0055050|
+|===
 |**至少成功8次**|**0.67**|
 
 
