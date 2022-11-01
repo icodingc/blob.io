@@ -76,8 +76,9 @@ toc: true
 ## ✍️ Quote of the Week
 > 任何能激怒你的人都会成为你的主人；只有当你允许自己被他打扰时，他才会激怒你。 -- 爱比克泰德
 
-
-——💌 感谢你的阅读——
+<center>
+—— 💌 感谢你的阅读 ——
 
 [欢迎订阅](https://explorer.zhubai.love/)
 <a target="_blank" href="https://explorer.zhubai.love/" class="btn btn-danger">点个订阅</a>
+</center>
