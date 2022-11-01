@@ -80,3 +80,4 @@ toc: true
 ——💌 感谢你的阅读——
 
 [欢迎订阅](https://explorer.zhubai.love/)
+<a target="_blank" href="https://explorer.zhubai.love/" class="btn btn-danger">点个订阅</a>
