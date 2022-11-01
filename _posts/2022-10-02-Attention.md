@@ -57,6 +57,8 @@ image: assets/images/4.jpg
 ## **✍️ Quote of the Week**
 > The best way, perhaps the only way, to change others is to **become an example**. -- Naval
 
-——💌 感谢你的阅读——
+<center>
+<p>—— 💌 感谢你的阅读 ——</p>
 
-如果给你带来帮助，不妨分享给你的朋友。这是对我最好的支持。[**欢迎订阅**](https://explorer.zhubai.love/)
+<a target="_blank" href="https://explorer.zhubai.love/" class="btn btn-danger">点个订阅</a>
+</center>

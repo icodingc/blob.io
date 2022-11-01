@@ -92,3 +92,10 @@ image: assets/images/16.jpg
 
 #### 0010 大自然的选择
 女性大脑中的雌性激素会使女性把注意力集中在情绪和沟通上，男性大脑中的睾酮素会使男性不爱说话，专注在竞争上。
+
+
+<center>
+<p>—— 💌 感谢你的阅读 ——</p>
+
+<a target="_blank" href="https://explorer.zhubai.love/" class="btn btn-danger">点个订阅</a>
+</center>

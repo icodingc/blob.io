@@ -61,6 +61,8 @@ image: assets/images/13.jpg
 ## ✍️ Quote of the Week
 > Where your Fear is,There your Task is. -- Carl Jung
 
-——💌 感谢你的阅读——
+<center>
+<p>—— 💌 感谢你的阅读 ——</p>
 
-[欢迎订阅](https://explorer.zhubai.love/)
+<a target="_blank" href="https://explorer.zhubai.love/" class="btn btn-danger">点个订阅</a>
+</center>

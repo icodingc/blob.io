@@ -49,4 +49,9 @@ image: assets/images/6.jpg
 要想集中精力，就要用足够的勇气，**敢于决定**真正该做和真正先做的工作
 
 
-> **做TIME和TASK的主宰**。
+
+<center>
+<p>—— 💌 感谢你的阅读 ——</p>
+
+<a target="_blank" href="https://explorer.zhubai.love/" class="btn btn-danger">点个订阅</a>
+</center>

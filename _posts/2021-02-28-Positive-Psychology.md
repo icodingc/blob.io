@@ -98,3 +98,10 @@ image: assets/images/1.jpg
 > https://zhuanlan.zhihu.com/p/106382612?utm_source=wechat_session
 > https://zhuanlan.zhihu.com/p/24680966
 > https://www.zhihu.com/question/22437266/answer/42237297
+
+
+<center>
+<p>—— 💌 感谢你的阅读 ——</p>
+
+<a target="_blank" href="https://explorer.zhubai.love/" class="btn btn-danger">点个订阅</a>
+</center>
