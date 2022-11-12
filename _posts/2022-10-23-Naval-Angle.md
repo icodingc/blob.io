@@ -6,6 +6,7 @@ date: 2022-10-23
 categories: [Articles]
 tags: [纳瓦尔,读书,嫉妒,价值观]
 image: "https://pica.zhimg.com/80/v2-7b5e205316d222aa48a65d621722c357_1440w.webp"
+featured: true
 toc: true
 ---
 最近读了一遍TKP对纳瓦尔的采访 The Angel Philosopher。尽管前不久才重读了一遍《纳瓦尔宝典》，这次阅读采访手稿还是有很多启发，阅读完觉得不错的话也推荐去阅读原稿和书。
